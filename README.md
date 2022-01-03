@@ -14,3 +14,5 @@ The purpose of this project was, foremost, to gain a working understanding of Vi
 
 
 ## Summary
+##### What are the advantages or disadvantages of refactoring code?
+##### How do these pros and cons apply to refactoring the original VBA script?
