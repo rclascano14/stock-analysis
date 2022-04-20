@@ -3,6 +3,7 @@
 
 ## Resources
 - VBA
+- Data - green_stocks.xlsx
 
 ## Overview of Project
 
